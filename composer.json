@@ -2,7 +2,7 @@
   "name": "hao-poc/base-excel",
   "description": "Base excel do Hao dep trai nghien cuu",
   "type": "php",
-  "license": "OMT",
+  "license": "Proprietary",
   "autoload": {
     "psr-4": {
       "HaoPoc\\BaseExcel\\": "src/"
