@@ -1,0 +1,5 @@
+/vendor
+/docker-compose.yml
+/Dockerfile
+/supervisord.log
+/supervisord.pid  
