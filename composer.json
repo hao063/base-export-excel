@@ -1,0 +1,22 @@
+{
+  "name": "poc/base-excel",
+  "description": "Base excel do Hao dep trai nghien cuu",
+  "type": "php",
+  "license": "OMT",
+  "autoload": {
+    "psr-4": {
+      "Poc\\BaseExcel\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "HaoNP"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {
+    "laravel/framework": "^9.19",
+    "maatwebsite/excel": "^3.1",
+    "ext-json": "*"
+  }
+}
