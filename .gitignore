@@ -3,3 +3,4 @@
 /Dockerfile
 /supervisord.log
 /supervisord.pid
+/composer.lock

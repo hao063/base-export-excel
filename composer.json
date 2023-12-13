@@ -5,7 +5,7 @@
   "license": "OMT",
   "autoload": {
     "psr-4": {
-      "Poc\\BaseExcel\\": "src/"
+      "HaoPoc\\BaseExcel\\": "src/"
     }
   },
   "authors": [
